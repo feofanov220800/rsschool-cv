@@ -1,4 +1,4 @@
-#Curriculum vitae
+# Curriculum vitae
 
 **VALERA FEOFANOV**
 
@@ -13,13 +13,13 @@ quality of the work performed. I learn quickly and learn new things.
 
 ## SKILLS
 
-*C#
-*Python
-*JavaScript
-*SASS
-*BAM
-*Git
-*Visual Studio Code
+* C#
+* Python
+* JavaScript
+* SASS
+* BAM
+* Git
+* Visual Studio Code
 
 ## EXAMPLE CODE
 
