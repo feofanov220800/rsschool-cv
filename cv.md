@@ -5,13 +5,13 @@
 * **PHONE:** +375 29 15 808 60
 * **GMAIL:** feofanovvalera994@gmail.com
 
-##SUMMARY
+## SUMMARY
 
 My goal is to get into EPAM and start my career there as a front-end developer. To achieve the goal, 
 I study the technologies necessary for work and learn new ones in order to speed up and improve the 
 quality of the work performed. I learn quickly and learn new things.
 
-##SKILLS
+## SKILLS
 
 *C#
 *Python
@@ -21,7 +21,7 @@ quality of the work performed. I learn quickly and learn new things.
 *Git
 *Visual Studio Code
 
-##EXAMPLE CODE
+## EXAMPLE CODE
 
 ```
 const personalMovieDB = {
@@ -93,10 +93,10 @@ const personalMovieDB = {
 };
 ```
 
-##experience
+## experience
 
 no
 
-##ENGLISH
+## ENGLISH
 
 A1
